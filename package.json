@@ -10,6 +10,12 @@
   "dependencies": {
     "@babylonjs/core": "^6.32.0",
     "@babylonjs/loaders": "^6.32.0",
+    "@types/cannon": "^0.1.12",
+    "ammojs-typed": "^1.0.6",
+    "cannon": "^0.6.2",
+    "fs": "^0.0.1-security",
+    "path-browserify": "^1.0.1",
+    "regenerator-runtime": "^0.14.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
